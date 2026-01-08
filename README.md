@@ -123,11 +123,13 @@ G-12/
 Electronics & Communication Engineering
 
 📧 Email: Priyanshuaggarwal.in@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/priyanshu1201
+💼 LinkedIn: https://linkedin.com/in/priyanshu1201
 💻 GitHub: https://github.com/AggarwalPriyanshu
  
 
-#### Aditya Pandey (Website and Video Game Developer)
+#### Aditya Pandey 
+Website and Video Game Developer
+
 💻 GitHub: https://github.com/Aditya-Pandey-GH  
 💼 LinkedIn: https://www.linkedin.com/in/aditya-pandey-in
 
