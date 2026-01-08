@@ -63,7 +63,7 @@ It combines a **secure user authentication system** with an engaging collection 
   ```bash
   pip install mysql-connector-python
 Configuration
-
+```
 Update the database credentials in:
 
 CS_Project_File.py
@@ -84,8 +84,9 @@ python CS_Project_File.py
 Run games directly (Bypass authentication):
 
 python Games.py
-
+```
 📂 Project Structure
+```
 G-12/
 │
 ├── CS_Project_File.py   # Main entry point & account management dashboard
@@ -94,14 +95,20 @@ G-12/
 ├── GAMERS.csv          # Local storage for user records
 
 🗺️ Roadmap
-
+```
 Remove local MySQL dependency for easier portability
 
 Implement a global NoSQL cloud database or host MySQL on a centralized server
 
-👤 Authors
+## 👤 Author
 
-Priyanshu Aggarwal
-Aditya Pandey
+**Priyanshu Aggarwal** 
+Electronics & Communication Engineering  
 
-🔗 GitHub: @AggarwalPriyanshu
+📧 Email: Priyanshuaggarwal.in@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/priyanshu1201  
+💻 GitHub: https://github.com/AggarwalPriyanshu  
+
+---
+
+⭐ If you find this repository useful, feel free to star it!
