@@ -123,7 +123,9 @@ G-12/
 Electronics & Communication Engineering
 
 📧 Email: Priyanshuaggarwal.in@gmail.com
+
 💼 LinkedIn: https://linkedin.com/in/priyanshu1201
+
 💻 GitHub: https://github.com/AggarwalPriyanshu
  
 
