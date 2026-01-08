@@ -85,21 +85,21 @@ con = mc.connect(
 )
 ```
 
-Execution
+### Execution
 
-Run full application (Authentication + Games):
+- Run full application (Authentication + Games):
 
 ```
 python CS_Project_File.py
 ```
 
-Run games directly (Bypass authentication):
+- Run games directly (Bypass authentication):
 
 ```
 python Games.py
 ```
 
-📂 Project Structure
+### 📂 Project Structure
 
 ```
 G-12/
@@ -110,15 +110,15 @@ G-12/
 ├── GAMERS.csv          # Local storage for user records
 ```
 
-🗺️ Roadmap
+### 🗺️ Roadmap
 
 Remove local MySQL dependency for easier portability
 
 Implement a global NoSQL cloud database or host MySQL on a centralized server
 
-👤 Author
+### 👤 Author
 
-Priyanshu Aggarwal
+### Priyanshu Aggarwal
 Electronics & Communication Engineering
 
 📧 Email: Priyanshuaggarwal.in@gmail.com
