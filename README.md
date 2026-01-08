@@ -84,6 +84,7 @@ con = mc.connect(
     passwd="your_password"
 )
 ```
+---
 
 ### Execution
 
@@ -98,7 +99,7 @@ python CS_Project_File.py
 ```
 python Games.py
 ```
-
+---
 ### 📂 Project Structure
 
 ```
@@ -115,6 +116,8 @@ G-12/
 Remove local MySQL dependency for easier portability
 
 Implement a global NoSQL cloud database or host MySQL on a centralized server
+
+---
 
 ### 👤 Author
 
