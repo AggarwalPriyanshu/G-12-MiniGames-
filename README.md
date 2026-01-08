@@ -114,17 +114,10 @@ G-12/
 ├── GAMERS.csv          # Local storage for user records
 ```
 
-### 🗺️ Roadmap
-
-
-
--Remove local MySQL dependency for easier portability
-
--Implement a global NoSQL cloud database or host MySQL on a centralized server
 
 ---
 
-### 👤 Author
+### 👥 Authors & Contributors
 
 
 ### Priyanshu Aggarwal
@@ -135,6 +128,17 @@ Electronics & Communication Engineering
 🔗 LinkedIn: https://linkedin.com/in/priyanshu1201
 
 💻 GitHub: https://github.com/AggarwalPriyanshu
+
+
+
+### 🤝 Co-Developer / Project Partner
+**Aditya Pandey**  
+
+- Contributed to core development and feature implementation  
+- Assisted in logic design, testing, and documentation  
+
+🔗 GitHub: https://github.com/Aditya-Pandey-GH
+
 
 ---
 
