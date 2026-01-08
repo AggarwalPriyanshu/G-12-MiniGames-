@@ -119,8 +119,8 @@ G-12/
 
 ### 👥 Authors & Contributors
 
+#### Priyanshu Aggarwal
 
-### Priyanshu Aggarwal
 Electronics & Communication Engineering
 
 📧 Email: Priyanshuaggarwal.in@gmail.com
@@ -128,17 +128,11 @@ Electronics & Communication Engineering
 🔗 LinkedIn: https://linkedin.com/in/priyanshu1201
 
 💻 GitHub: https://github.com/AggarwalPriyanshu
+ 
 
-
-
-
-### 🤝 Co-Developer / Project Partner
-**Aditya Pandey**  
-
-
-🔗 LinkedIn: https://www.linkedin.com/in/aditya-pandey-in
-
-💻 GitHub: https://github.com/Aditya-Pandey-GH
+#### Aditya Pandey (Website and Video Game Developer)
+💻 GitHub: https://github.com/Aditya-Pandey-GH  
+💼 LinkedIn: https://www.linkedin.com/in/aditya-pandey-in
 
 
 ---
