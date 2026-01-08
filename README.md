@@ -131,13 +131,14 @@ Electronics & Communication Engineering
 
 
 
+
 ### 🤝 Co-Developer / Project Partner
 **Aditya Pandey**  
 
-- Contributed to core development and feature implementation  
-- Assisted in logic design, testing, and documentation  
 
-🔗 GitHub: https://github.com/Aditya-Pandey-GH
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-pandey-in
+
+💻 GitHub: https://github.com/Aditya-Pandey-GH
 
 
 ---
