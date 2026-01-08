@@ -113,9 +113,9 @@ G-12/
 
 ### 🗺️ Roadmap
 
-Remove local MySQL dependency for easier portability
+-Remove local MySQL dependency for easier portability
 
-Implement a global NoSQL cloud database or host MySQL on a centralized server
+-Implement a global NoSQL cloud database or host MySQL on a centralized server
 
 ---
 
