@@ -1,63 +1,107 @@
-🎮 G-12: The CLI Game Zone & User Management System
-G-12 is a robust Command Line Interface (CLI) application developed as a full-stack Python project. It features a complete user authentication system integrated with a diverse collection of mini-games, ranging from mathematical puzzles and logic games to high-intensity quizzes.
+# 🎮 G-12: The CLI Game Zone & User Management System
 
-✨ Key Features
-👤 User Management System
-Secure Authentication: Includes Login and Sign-up functionality with password-protected accounts.
+**G-12** is a robust **Command Line Interface (CLI) application** developed as a **full-stack Python project**.  
+It combines a **secure user authentication system** with an engaging collection of **mini-games**, ranging from mathematical puzzles and logic challenges to high-intensity quizzes.
 
-Persistent Storage: Utilizes dual-mode storage using MySQL for database management and CSV files for local records.
+---
 
-Account Recovery: Features a built-in "Forgot Password" tool utilizing a simulated OTP (One-Time Password) system.
+## ✨ Key Features
 
-CRUD Operations: Users have the ability to View, Edit, or Delete their account details directly through the main dashboard.
+### 👤 User Management System
+- **Secure Authentication**  
+  Login and Sign-up functionality with password-protected user accounts.
 
-🕹️ The Game Zone
-Fun Games: Includes Stone-Paper-Scissors, Lucky Draw, Guess the Number, and Prank Calculators.
+- **Persistent Storage**  
+  Dual-mode storage using **MySQL** for database management and **CSV files** for local backups.
 
-Mind Games: A multi-category Quiz system covering Technology, Astronomy, Nature, Sports, and History.
+- **Account Recovery**  
+  Built-in *Forgot Password* feature using a simulated **OTP (One-Time Password)** system.
 
-IQ Puzzles: Features "FPB" (Fermi, Pico, Bagels), a deductive logic number-guessing game available in both Single and Multi-player modes.
+- **CRUD Operations**  
+  Users can **View, Edit, or Delete** their account details directly from the main dashboard.
 
-🛠️ Tech Stack
-Language: Python 3.x.
+---
 
-Database: MySQL (via mysql-connector-python).
+### 🕹️ The Game Zone
+- **Fun Games**
+  - Stone-Paper-Scissors  
+  - Lucky Draw  
+  - Guess the Number  
+  - Prank Calculators  
 
-File Handling: CSV module for local data backups.
+- **Mind Games**
+  - Multi-category Quiz system:
+    - Technology  
+    - Astronomy  
+    - Nature  
+    - Sports  
+    - History  
 
-Standard Libraries: random for logic, time for UI delays, and os for file management.
+- **IQ Puzzles**
+  - **FPB (Fermi, Pico, Bagels)**  
+    A deductive logic number-guessing game available in **Single-player** and **Multi-player** modes.
 
-🚀 Getting Started
-Prerequisites
-Python: Ensure Python 3.x is installed.
+---
 
-MySQL: A local MySQL server must be running.
+## 🛠️ Tech Stack
+- **Language:** Python 3.x  
+- **Database:** MySQL (`mysql-connector-python`)  
+- **File Handling:** CSV module for local backups  
+- **Standard Libraries:**  
+  - `random` – game logic  
+  - `time` – UI delays  
+  - `os` – file management  
 
-Connector: Install the required library via pip: pip install mysql-connector-python.
+---
 
+## 🚀 Getting Started
+
+### Prerequisites
+- **Python:** Python 3.x installed  
+- **MySQL:** Local MySQL server running  
+- **Connector:** Install required library  
+  ```bash
+  pip install mysql-connector-python
 Configuration
-Update the connection details in CS_Project_File.py and File_Handling.py to match your local MySQL credentials: con = mc.connect(host="localhost", user="root", passwd="your_password")
 
-Execution
-To experience the full application (Login + Games), run: python CS_Project_File.py.
+Update the database credentials in:
 
-To bypass authentication and play games directly, run: python Games.py.
+CS_Project_File.py
+
+File_Handling.py
+
+con = mc.connect(
+    host="localhost",
+    user="root",
+    passwd="your_password"
+)Execution
+
+Run full application (Authentication + Games):
+
+python CS_Project_File.py
+
+
+Run games directly (Bypass authentication):
+
+python Games.py
 
 📂 Project Structure
-CS_Project_File.py: The main entry point and Account Management dashboard.
-
-File_Handling.py: Handles Backend logic, CSV operations, and OTP recovery.
-
-Games.py: The core gaming engine containing all mini-game logic.
-
-GAMERS.csv: Local storage for user records.
+G-12/
+│
+├── CS_Project_File.py   # Main entry point & account management dashboard
+├── File_Handling.py    # Backend logic, CSV operations, OTP recovery
+├── Games.py            # Core gaming engine (all mini-games)
+├── GAMERS.csv          # Local storage for user records
 
 🗺️ Roadmap
-Remove local MySQL dependency for easier portable deployment.
 
-Implement a global NoSQL cloud database or host MySQL over a global server.
+Remove local MySQL dependency for easier portability
 
-👤 Author
-Priyanshu Aggarwal & Aditya Pandey
+Implement a global NoSQL cloud database or host MySQL on a centralized server
 
-GitHub: @AggarwalPriyanshu
+👤 Authors
+
+Priyanshu Aggarwal
+Aditya Pandey
+
+🔗 GitHub: @AggarwalPriyanshu
