@@ -88,6 +88,7 @@ con = mc.connect(
 
 ### Execution
 
+
 - Run full application (Authentication + Games):
 
 ```
@@ -102,6 +103,8 @@ python Games.py
 ---
 ### 📂 Project Structure
 
+
+
 ```
 G-12/
 │
@@ -113,6 +116,8 @@ G-12/
 
 ### 🗺️ Roadmap
 
+
+
 -Remove local MySQL dependency for easier portability
 
 -Implement a global NoSQL cloud database or host MySQL on a centralized server
@@ -120,6 +125,7 @@ G-12/
 ---
 
 ### 👤 Author
+
 
 ### Priyanshu Aggarwal
 Electronics & Communication Engineering
