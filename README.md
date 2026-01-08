@@ -1,4 +1,4 @@
-# 🎮 G-12: The CLI Game Zone & User Management System
+  # 🎮 G-12: The CLI Game Zone & User Management System
 
 ![Python](https://img.shields.io/badge/Language-Python%203.x-blue)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
@@ -77,30 +77,38 @@ CS_Project_File.py
 
 File_Handling.py
 
+```
 con = mc.connect(
     host="localhost",
     user="root",
     passwd="your_password"
 )
+```
 
 Execution
 
 Run full application (Authentication + Games):
 
+```
 python CS_Project_File.py
-
+```
 
 Run games directly (Bypass authentication):
 
+```
 python Games.py
+```
 
 📂 Project Structure
+
+```
 G-12/
 │
 ├── CS_Project_File.py   # Main entry point & account management dashboard
 ├── File_Handling.py    # Backend logic, CSV operations, OTP recovery
 ├── Games.py            # Core gaming engine (all mini-games)
 ├── GAMERS.csv          # Local storage for user records
+```
 
 🗺️ Roadmap
 
